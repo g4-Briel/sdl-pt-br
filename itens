@@ -1,0 +1,2518 @@
+[
+  {
+    "name": "Algibeira",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": 0,
+        "challengebonus": 0,
+        "damage": "",
+        "defense": 0,
+        "speed": 0,
+        "perception": 0,
+        "effect": "",
+        "uses": {
+          "value": 0,
+          "max": 0
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Algibeira",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Aljava para flechas ou virotes",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "5 ma",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Arpéu",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Barril",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "2 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Baú, madeira",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "4 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Cachimbo",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "2 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Caixa, metal",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "5 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Cartas, baralho",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "3 ma",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Charutos, caixa",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc+",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Cobertor",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Conjunto de talheres",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "5 ma",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Corda (20 metros)",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Cravo, grande de ferro",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Dados",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "2 ma",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Espelho, pequeno de prata",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "R",
+      "value": "1 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Fósforos",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "E",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Frasco",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Grilhões",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "5 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Kit de Aventureiro",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Lanterna",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "1 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Lanterna focada",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "5 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Mapa",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "1 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Martelo e 10 pitons",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Mochila",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Odre",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Óleo, frasco",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Panela",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Pederneira",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Porta pergaminho",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "2 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Rações (1 semana)",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Saco",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "5 ma",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Saco de Dormir",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "2 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Tabaco para cachimbo",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc+",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Tenda para 2 pessoas",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "5 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Tocha",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "5 ma",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Vara, 3 metros",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Vela",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "1 ma",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Bolsa de mão",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "1 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Calças, básicas",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "2 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Calças, boa qualidade",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "R",
+      "value": "2 xp+",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Camisa",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Camisa, boa qualidade",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "R",
+      "value": "1 xp+",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Cartola",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "8 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Casaco de inverno",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Casaco leve",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "5 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Chapéu feminino",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "1 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Cinto",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Colete",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "3 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Fantasia, elaborada",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "R",
+      "value": "5 xp+",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Fantasia, simples",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "5 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Gorro",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "5 ma",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Gorro, boa qualidade",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "R",
+      "value": "1 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Luvas, boa qualidade",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "R",
+      "value": "1 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Luvas, trabalho",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "1 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Macacão de Trabalho",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "3 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Manto",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "5 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Meia de seda",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "8 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Óculos",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "R",
+      "value": "5 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Roupas básicas",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "5 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Roupas, artista",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "7 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Roupas, cortesão",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "R",
+      "value": "5 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Roupas, inverno",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "8 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Roupas, nobreza",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "E",
+      "value": "5 co",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Roupas, realeza",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "E",
+      "value": "25 co",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Sapatos, boa qualidade",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "R",
+      "value": "2 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Sapatos, couro",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "2 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Sobretudo",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "1 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Terno, alfaiataria",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "4 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Terno, segunda mão",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "1 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Túnica",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "1 xp",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Uniforme",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "I",
+      "value": "5 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Vestido, básico",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "C",
+      "value": "5 cc",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  },
+  {
+    "name": "Vestido, boa qualidade",
+    "type": "item",
+    "img": "icons/containers/bags/sack-cloth-tan.webp",
+    "data": {
+      "description": "",
+      "enchantment": {
+        "attackbonus": null,
+        "challengebonus": null,
+        "damage": "",
+        "defense": null,
+        "speed": null,
+        "perception": null,
+        "effect": "",
+        "uses": {
+          "value": null,
+          "max": null
+        }
+      },
+      "quantity": 1,
+      "availability": "R",
+      "value": "5 xp+",
+      "wear": true,
+      "healingoption": false
+    },
+    "flags": {
+      "exportSource": {
+        "world": "shadow-of-demon-lord",
+        "system": "demonlord",
+        "coreVersion": 9249,
+        "systemVersion": "2.0.3"
+      }
+    }
+  }
+]
